@@ -1,4 +1,4 @@
-public class PlimitivosFloat {
+public class PrimitivosFloat {
     public static void main(String[] args) {
         float numeroFloat = 3.4028235E38F;
         System.out.println("numeroFloat = " + numeroFloat);
